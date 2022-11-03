@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SqlLiteDatabaseExample</string>
+    <string name="name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="street">Enter Street</string>
+    <string name="country">Enter Country</string>
+    <string name="city">Enter City</string>
+    <string name="save">Save Data to SQLLite</string>
+    <string name="display">Display Data</string>
+    <string name="displayRows">Display Rows</string>
+    <string name="deleteInformation">Delete Information</string>
+    <string name="getAllInformation">Get All Information</string>
+
+</resources>
